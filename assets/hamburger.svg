@@ -1,0 +1,9 @@
+<svg id="hamburger" data-name="hamburger" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30">
+    <defs>
+        <style>.cls-1{fill:#17272B;}</style>
+    </defs>
+    <title>hamburger menu</title>
+    <circle class="cls-1" cx="15" cy="6" r="3"/>
+    <circle class="cls-1" cx="15" cy="15" r="3"/>
+    <circle class="cls-1" cx="15" cy="24" r="3"/>
+</svg>
