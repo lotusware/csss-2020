@@ -40,13 +40,10 @@ Vue.component('side-card', {
     <h2 >Sponsors</h1>
 <div class="card-group">
     <div class="sponsor card"><img class="card-img-top sponsor-img" src="assets/sponsor-upei.png" alt="Card image cap"></div>
-    <div class="sponsor card"><img class="card-img-top sponsor-img" src="assets/sponsor-temp.png" alt="Card image cap"></div>
-    <div class="sponsor card"><img class="card-img-top sponsor-img" src="assets/sponsor-temp.png" alt="Card image cap"></div>
   </div>
   <h2 >Partners</h1>
   <div class="card-group" style="background-color:#17272B">
     <div class="sponsor card"><img class="card-img-top sponsor-img" src="assets/sponsor-mc.png" alt="Card image cap"></div>
-    <div class="sponsor card"><img class="card-img-top sponsor-img" src="assets/sponsor-temp.png" alt="Card image cap"></div>
   </div>
 </div>
 <hr style="border-top-color:rgba(255,255,255,0.1); margin-bottom:0px">
