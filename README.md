@@ -11,5 +11,5 @@
   - leave the selection at Commit directorly to the `master` branch
   - Click the green Commit changes button
   
-##### You should see your change appear on the live sit in 5 to 10 minutes
+##### You should see your change appear on the live site in 5 to 10 minutes
 
