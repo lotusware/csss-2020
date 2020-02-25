@@ -11,5 +11,11 @@
   - leave the selection at Commit directorly to the `master` branch
   - Click the green Commit changes button
   
+ ### Abstract Submissions
+ - Click on Issues
+ - Any Abstract submissions that come in will generate a Pinned Issue at the top
+ - When the information is copied over on your end, feel free to close the issue
+ - It can be left open, but may be easier to organize on your end
+  
 ##### You should see your change appear on the live site in 5 to 10 minutes
 
