@@ -8,6 +8,10 @@ h1, h2, .navbar-brand, .nav-item, h5, .sub-item{
   font-weight: 700;
 }
 
+p{
+  max-width:940px;
+}
+
 .sub-item{
   color:white;
   padding:10px 10px 10px 10px;
