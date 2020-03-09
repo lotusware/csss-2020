@@ -11,11 +11,11 @@
   - leave the selection at Commit directorly to the `master` branch
   - Click the green Commit changes button
   
- ### Abstract Submissions
- - Click on Issues
- - Any Abstract submissions that come in will generate a Pinned Issue at the top
- - When the information is copied over on your end, feel free to close the issue
- - It can be left open, but may be easier to organize on your end
-  
 ##### You should see your change appear on the live site in 5 to 10 minutes
+  
+### Abstract Submissions / Registration
+- [Click here](https://docs.google.com/spreadsheets/d/1J_0-66un-LbuACTKj47N_enjQJmpz1MUxE2sEyZsLz0/edit?usp=sharing) to view the Abstract Submissions -- its set up to automatically publish to a restricted access table
+- Registration List will be updated every week or so and be [available here](https://github.com/lotusware/csss-2020/issues/43)
+  
+
 
