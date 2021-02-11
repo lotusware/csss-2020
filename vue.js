@@ -47,7 +47,7 @@ Vue.component('side-card', {
   </div>
 </div>
 <hr style="border-top-color:rgba(255,255,255,0.1); margin-bottom:0px">
-        <div class="footer-copyright text-center py-3"style="padding-bottom:20px;">© 2020 Copyright
+        <div class="footer-copyright text-center py-3"style="padding-bottom:20px;">© 2021 Copyright
             <a>Canadian Society of Soil Science</a>
         </div>
 </footer>
