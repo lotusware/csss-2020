@@ -62,7 +62,7 @@ Vue.component('side-card', {
         <div class="container-fluid-nav container-fluid">
             <div class="container" style="max-width:1600px;">
                 <nav class="navbar navbar-expand-lg">
-                    <a class="navbar-brand"><img src="assets/nav-logo.png" height="30" style="margin-top:-8px"/> CSSS 2020</a>
+                    <a class="navbar-brand"><img src="assets/nav-logo.png" height="30" style="margin-top:-8px"/> CSSS 2021</a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                     <img src="assets/hamburger.svg" height="30" />
                     </button>
@@ -81,7 +81,6 @@ template: `
 <div class="navbar-nav">
     <a class="nav-item nav-link" href="welcome.html" >Welcome</a>
     <a class="nav-item nav-link" href="about.html" >About</a>
-    <a class="nav-item nav-link" href="venue.html" >Venue</a>
     <a class="nav-item nav-link" href="program.html" >Scientific Program</a>
     <a class="nav-item nav-link" href="registration.html" >Registration</a>
     <a class="nav-item nav-link" href="abstracts.html" >Abstracts</a>
