@@ -81,9 +81,6 @@ template: `
 <div class="navbar-nav">
     <a class="nav-item nav-link" href="welcome.html" >Welcome</a>
     <a class="nav-item nav-link" href="about.html" >About</a>
-<!--hiding
-    <a class="nav-item nav-link" href="venue.html" >Venue</a>
---->
     <a class="nav-item nav-link" href="program.html" >Scientific Program</a>
     <a class="nav-item nav-link" href="registration.html" >Registration</a>
     <a class="nav-item nav-link" href="abstracts.html" >Abstracts</a>
